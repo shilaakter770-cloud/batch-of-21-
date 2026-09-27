@@ -32,4 +32,4 @@ let objectData = {
 //     "my name is " + objectData.name + " and my address is: " + objectData.address
 // );
 
-console.log(`My name is musfika and my address is: ${objectData.address}`);
+console.log(`My name is musfika and my address is: ${objectData.address}`); 
